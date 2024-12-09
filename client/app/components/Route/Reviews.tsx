@@ -64,8 +64,9 @@ const Reviews = (props: Props) => {
         </div>
         <div className="800px:w-[50%] w-full">
           <h3 className={`${styles.title} 800px:!text-[40px]`}>
-            Our Students Are <span className="text-gradient">Our Strength</span>{" "}
-            <br /> See What They Say About Us
+            Our Employees Are{" "}
+            <span className="text-gradient">Our Strength</span> <br /> Popular
+            Posts from Employees Today
           </h3>
           <br />
           <p className={styles.label}>
